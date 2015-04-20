@@ -1,0 +1,25 @@
+
+body{
+	background-color:#C9E1C1;
+}
+
+#mainContainer{
+	padding-top:5px;
+}
+#centerImage{
+	display:block; 
+	border-radius:15px; 
+	height:auto; 
+	width:auto; 
+	max-height:100%; 
+	max-width:100%; 
+	margin:auto; 
+	margin-top:5%;
+}
+
+
+.navLink{
+	margin-left:50%; 
+	text-decoration:none;  
+	border-radius:5px;
+}
